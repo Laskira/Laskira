@@ -101,7 +101,7 @@ Developer able using multiple **tools, frameworks and libraries** to both fronte
 
   
 
-**Frameworks**
+**Frameworks**<br>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -113,7 +113,7 @@ Developer able using multiple **tools, frameworks and libraries** to both fronte
 
   
 
-**Databases**
+**Databases**<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![SqlServer](https://img.shields.io/badge/-SqlServer-000000?style=flat&logo=MicrosoftSQLServer)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
