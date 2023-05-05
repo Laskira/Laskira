@@ -73,8 +73,9 @@ https://simpleicons.org/
 
   
 
-I'm a software developer with experience in software develoment custom. I have a continuous learning mindset and am constantly seeking opportunities to improve my skills and stay up-to-date with the latest trends and technologies in my field. I also have a great ability to adapt to change, which allows me to approach new challenges with confidence and creativity. I believe that my combination of experience, technical skills, and positive attitude make me an ideal fit for this position, and I am excited for the opportunity to apply my knowledge in a challenging and innovative environment.
-
+I'm a software developer with experience in custom software development, unit testing, handling and tracking Azure DevOps pipelines, code refactoring according to SonarQube standards, and relational and non-relational databases. I have a strong knowledge of tools such as Golang, Django, Node.js, Vuejs, Angular, React, Typescript, Sql Server, Mysql, Graphql, and MongoDB. 
+  
+Currently, I am looking for job opportunities that allow for my professional development, as well as to offer my knowledge and experience in software development in positions such as Fullstack developer, frontend or backend.
   
 
 </p>
